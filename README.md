@@ -138,13 +138,20 @@
     <br>
 <br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Proyects</b> 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Proyects</b> 
+<br>
+<div align='left'>
 
+<li>
+<a href="https://severusgod.itch.io/morzat" target="_blank">
+<img data-src="https://gcdnb.pbrd.co/images/W47FzZtcYyWG.png?o=1" data-load-src="https://pasteboard.co/images/W47FzZtcYyWG.png/load" alt="Morzat" class="image js" src="https://img.itch.zone/aW1nLzI1NzEyMTcucG5n/347x500/jrC6o7.png">
+</a>
+</li>
 
 <br>
 <li>
 <a href="https://drive.google.com/file/d/12G7xBiZXdGzFIgCpCyRBJtWD9BffQNmb/view?usp=sharing" target="_blank">
-<img data-src="https://gcdnb.pbrd.co/images/W47FzZtcYyWG.png?o=1" data-load-src="https://pasteboard.co/images/W47FzZtcYyWG.png/load" alt="uploaded image" class="image js" src="https://gcdnb.pbrd.co/images/W47FzZtcYyWG.png?o=1">
+<img data-src="https://gcdnb.pbrd.co/images/W47FzZtcYyWG.png?o=1" data-load-src="https://pasteboard.co/images/W47FzZtcYyWG.png/load" alt="Leonard Salazar CV" class="image js" src="https://gcdnb.pbrd.co/images/W47FzZtcYyWG.png?o=1">
 </a>
 </li>
 
