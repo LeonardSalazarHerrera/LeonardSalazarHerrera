@@ -41,8 +41,8 @@
     <th>Business Tools</th>
   </tr>
   <tr>
-    <td>Bash</td>
-    <td>ASP.NET</td>
+    <td>Dart</td>
+    <td>Flutter</td>
     <td>Power BI</td>
     <td>Gmail</td>
               </tr>
@@ -88,7 +88,7 @@
               <td>Gradle</td>
             </tr>
     <td>Java</td>
-              <td>Flutter</td>
+              <td>Bash</td>
               <td>Notepad++</td>
               </tr>
     <td>Javascript</td>
